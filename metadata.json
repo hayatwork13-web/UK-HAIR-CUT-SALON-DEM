@@ -1,0 +1,6 @@
+{
+  "name": "UK Hair Cut",
+  "description": "Premium Men's Hair Salon & Barber Shop in Hyderabad, Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
